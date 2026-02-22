@@ -1,5 +1,5 @@
-name="The Crossover World Mod Redux - Dev Build"
-path="C:/Users/User/Documents/Paradox Interactive/Hearts of Iron IV/mod/crossoverworldmodredux"
+name="The Crossover World Redux"
+path="mod/crossoverworldmodredux"
 tags={
 	"Map"
 	"Alternate History"

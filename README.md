@@ -1,5 +1,12 @@
-# The Crossover World Mod Redux Github
+The Crossover World Mod repository
 
-### Welcome! Welcome to Github repo. The build present here is the dev build - you can play it, but it is filled with bugs and incomplete stuff.
+This item is not authorized for posting on Steam, except under the Steam account named "Equestria At War Team" (https://steamcommunity.com/id/Equestria_At_War).
 
-### Plus, if you get any bugs or issues with the mod, you can report them in issues (we encourage you to do that, since the faster we get noticed = the faster the bug will be fixed).
+</a>
+<a href="https://github.com/dzhemvrot/crossoverworldmodredux_dev/issues">
+<img alt="Issues" src="https://img.shields.io/github/issues/dzhemvrot/crossoverworldmodredux_dev?color=0088ff" />
+</a>
+<a href="https://github.com/dzhemvrot/crossoverworldmodredux_dev/pulls">
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dzhemvrot/crossoverworldmodredux_dev?color=0088ff" />
+
+

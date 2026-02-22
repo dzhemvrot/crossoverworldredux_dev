@@ -1,6 +1,6 @@
-The Crossover World Mod repository
+The Crossover World Redux mod repository
 
-This item is not authorized for posting on Steam, except under the Steam account named "Equestria At War Team" (https://steamcommunity.com/id/Equestria_At_War).
+This item is not authorized for posting on Steam, except under the Steam account named "The Crossover World Redux Team".
 
 </a>
 <a href="https://github.com/dzhemvrot/crossoverworldmodredux_dev/issues">

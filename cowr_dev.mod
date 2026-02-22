@@ -1,5 +1,5 @@
-name="The Crossover World Redux"
-path="mod/crossoverworldredux"
+name="The Crossover World Redux - Dev"
+path="mod/crossoverworldredux_dev"
 tags={
 	"Map"
 	"Alternate History"
